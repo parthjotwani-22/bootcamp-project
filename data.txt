@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - AHMEDABAD  || 23 Jun 2021 | 11:32:23 AM
+-------------------------------------------------------------
+Current temperature is: 31.02 deg C
+Current weather desc  : haze
+Current Humidity      :74
+Current wind speed    :3.09kmph
